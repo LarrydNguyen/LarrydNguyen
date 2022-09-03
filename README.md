@@ -1,4 +1,4 @@
-
+![Design and Development](https://github.com/LarrydNguyen/LarrydNguyen/blob/main/images%20Github%20banner/Github%20banner.png)
 <h3 align="center">A Mechanical engineer expanding his horizons into Software Engineering.</h3>
 
 I had the privilege of finishing at a university becoming a Mechanical engineer that has worked with many programs in school and the in the field including MATLAB, LabVIEW,  SOLIDWORKS, and Wolfram Mathematica. My interest in robotics and machine learning with autonomous machines, PLCs, and computing transitioned me into python. I enjoyed it so much that I wanted to explore software engineering and the capabilities of full-stack engineering programs.
